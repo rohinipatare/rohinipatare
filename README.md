@@ -1,6 +1,4 @@
-[![Header](hero.jpg "Header")](https://www.creative-tim.com/)
-
-Hi there ✋!  
+Hi there, I'm Rohini Patare 👋  
 We are [Creative Tim](https://www.creative-tim.com/)<img src="https://www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg" />
 
 ## About Us
