@@ -1,17 +1,7 @@
-Hi there, I'm [Rohini Patare](https://www.creative-tim.com/)👋
+### Hi there, I'm [Rohini Patare](www.linkedin.com/in/rohinipatare/)👋
 
-## About Us
+I work as a Front-End Web Developer with UI/UX design skills (front-end designer). I´m based in India
 
-Creating your web design from scratch with dedicated designers can be very expensive. Using our solutions you don't have to worry about design. Save time and money by focusing on the business model.
-
-## Our expertise
-
-- Create UI Frameworks
-  -  We have created the tools that will help you in your next project. From plugins to complex kits, we've got you covered in all areas regarding front-end development.
-- Share Freebies
-  -  Everything that we used to create our products can be downloaded for free under MIT License. People have already trusted and used them in thousands of sites.
-- Power Hackathons
-  -  We've sponsored many hackathons around the world with the tools that they need to make awesome web applications. Our UI tools go hand in hand with startups.
 
 ## Our technologies
 
