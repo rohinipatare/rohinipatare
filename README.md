@@ -1,3 +1,8 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+</div>
+
 ### Hi there, I'm [Rohini Patare](www.linkedin.com/in/rohinipatare/)👋
 
 I work as a Front-End Web Developer with UI/UX design skills (front-end designer). I´m based in India
