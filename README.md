@@ -1,14 +1,24 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="30%"/>
+  <h1>Hi there, I'm 
+    <a href="www.linkedin.com/in/rohinipatare/">
+    Rohini Patare
+  </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h1>
 </div>
 
-### Hi there, I'm [Rohini Patare](www.linkedin.com/in/rohinipatare/)👋
+### :woman_technologist: About Me :
+I am a Front-End Developer with UI/UX design skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m a Front-End Web Developer and contributing to frontend and backend for building web applications.
 
-I work as a Front-End Web Developer with UI/UX design skills (front-end designer). I´m based in India
+- :seedling: Exploring UI/UX Web & Mobile Designing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rohini-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rohinipatare/)
 
 
-## Our technologies
+##  :hammer_and_wrench: Languages and Tools :
 
 Our products are built on top of modern frameworks. Having the coded and the designed versions for the same framework, your designers and developers will talk the same language.
 
