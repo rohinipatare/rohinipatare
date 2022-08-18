@@ -29,29 +29,21 @@ I am a Front-End Developer with UI/UX design skills <img src="https://media.giph
   <img src="tailwindcss.png" width="67.5px" />
   <img src="js.png" width="67.5px" />
   <img src="react.png" width="67.5px" />
-  
 </p>
 
+### Tools and Technologies
+<p>  
+  <img src="git.png" width="67.5px" />
+  <img src="linux.png" width="67.5px" />
+  <img src="figma.png" width="67.5px" />
+  <img src="vscode.png" width="67.5px" />
+</p>
 
 ### Database
 <p>
   <img src="mysql.png" width="67.5px" />
   <img src="mongodb.png" width="67.5px" />
-
 </p>
-
-### Tools and Technologies
-<p>
-  
-  <img src="git.png" width="67.5px" />
-  <img src="linux.png" width="67.5px" />
-  <img src="figma.png" width="67.5px" />
-  <img src="vscode.png" width="67.5px" />
-
-
-</p>
-
-
 
 
 ## Connect with me
