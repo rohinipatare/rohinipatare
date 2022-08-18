@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="headgif.gif" width="35%"/>
+  <img src="headgif.gif" width="20%"/>
   <h1>Hi there, I'm 
     <a href="www.linkedin.com/in/rohinipatare/">
     Rohini Patare
