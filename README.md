@@ -1,13 +1,13 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="30%"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="35%"/>
   <h1>Hi there, I'm 
     <a href="www.linkedin.com/in/rohinipatare/">
     Rohini Patare
   </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h1>
 </div>
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 I am a Front-End Developer with UI/UX design skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m a Front-End Web Developer and contributing to frontend and backend for building web applications.
 
@@ -20,21 +20,38 @@ I am a Front-End Developer with UI/UX design skills <img src="https://media.giph
 
 ##  :hammer_and_wrench: Languages and Tools :
 
-Our products are built on top of modern frameworks. Having the coded and the designed versions for the same framework, your designers and developers will talk the same language.
-
+### Front-End Skills
 <p>
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sass.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/figma.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/icon-laravel.jpg" width="67.5px" />
+  <img src="html.jpg" width="67.5px" />
+  <img src="css.png" width="67.5px" />
+  <img src="sass.png" width="67.5px" />
+  <img src="bootstrap.png" width="67.5px" />
+  <img src="tailwindcss.png" width="67.5px" />
+  <img src="js.png" width="67.5px" />
+  <img src="react.png" width="67.5px" />
+  
 </p>
 
-## Our products
+
+### Database
+<p>
+  <img src="mysql.png" width="67.5px" />
+  <img src="mongodb.png" width="67.5px" />
+
+</p>
+
+### Tools and Technologies
+<p>
+  
+  <img src="git.png" width="67.5px" />
+  <img src="linux.png" width="67.5px" />
+  <img src="figma.png" width="67.5px" />
+  <img src="vscode.png" width="67.5px" />
+
+
+</p>
+
+## Recent Devlopment
 
 Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 -------------- | ----------------- | -------------------- | ---------------------
@@ -45,7 +62,7 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 
 [View All Products](https://www.creative-tim.com/templates)
 
-## Our courses
+## Some UI Designs
 
 **Text courses:**
 
@@ -59,31 +76,13 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 |:--:|:--:|:--:|
 |How to use React with Firebase and Redux: Introduction|ReactJS and Redux Tutorial with real-life examples|Responsive Admin Template using Light Bootstrap Dashboard|
 
-## Our latest posts
-
-1. **[🔥 Creative Tim Courses](https://www.creative-tim.com/blog/creative-tim/new-learning-resources-web-designers/)** <br> *New Learning Platform for Web Designers & Devs*
-2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
-3. **[🙏 Docker and Django](https://www.creative-tim.com/blog/django-template/docker-and-django-how-to-start-fast/)** <br> *How to start fast*
-4. **[⭐️ Technology](https://www.creative-tim.com/blog/ux/importance-user-experience-expert/)** <br> *The Importance of a User Experience Expert in Every Company*
-5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates*
 
 
-## Useful Links
+## Connect with me
 
-- [Premium Products](https://www.creative-tim.com/templates/premium)
-- [Freebies](https://www.creative-tim.com/templates/free) from Creative Tim
-- [More products](https://www.creative-tim.com/templates) from Creative Tim
-- [Bundles](https://www.creative-tim.com/bundles)
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Material Design](https://www.creative-tim.com/design-system/material)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-- [Get Discount](https://www.creative-tim.com/coupon)
+[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/rohinipatare) 
+[<img alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/rohinipatare) 
+[<img alt="instagram" src="https://img.shields.io/badge/Instagram-e12f6b?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/its_also_relatable/) 
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-## Contact us
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/creative-tim-1b54778b) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w) <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
-<p align="center">
-https://www.creative-tim.com
-</p>
