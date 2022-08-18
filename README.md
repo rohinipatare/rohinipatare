@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="35%"/>
+  <img src="headgif.gif" width="35%"/>
   <h1>Hi there, I'm 
     <a href="www.linkedin.com/in/rohinipatare/">
     Rohini Patare
@@ -51,30 +51,6 @@ I am a Front-End Developer with UI/UX design skills <img src="https://media.giph
 
 </p>
 
-## Recent Devlopment
-
-Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
--------------- | ----------------- | -------------------- | ---------------------
-👉 [Download](https://www.creative-tim.com/product/material-kit) | 👉 [Download](https://www.creative-tim.com/product/soft-ui-dashboard) | 👉 [Download](https://www.creative-tim.com/product/soft-ui-react-native) | 👉 [Download](https://github.com/creativetimofficial/tailwind-starter-kit)
-📖 [Documentation](https://www.creative-tim.com/learning-lab/bootstrap/overview/material-kit) | 📖 [Documentation](https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-dashboard) | 📖 [Documentation](https://www.creative-tim.com/learning-lab/react-native/overview/soft) | 📖 [Documentation](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/download)
-✅ [Live Preview](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) | ✅ [Live Preview](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
-![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346)| ![Tailwind Starter Kit](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/creative-tim/opt_tsp_tailwindcss_thumbnail.jpg)
-
-[View All Products](https://www.creative-tim.com/templates)
-
-## Some UI Designs
-
-**Text courses:**
-
-- [How to quickstart and launch your website using Jekyll?](https://www.creative-tim.com/blog/webdesign/quickstart-launch-website-using-jekyll)
-- [How to create Scrolling Transformations for your React App?](https://www.creative-tim.com/blog/webdesign/create-scrolling-transformations-react-app)
-- [How to create a single-page application using React?](https://www.creative-tim.com/blog/react/create-single-page-application-using-react)
-
-**Video courses:**
-
-|[![How to use React with Firebase and Redux: Introduction](https://img.youtube.com/vi/BMPHfnAA9iI/mqdefault.jpg)](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[![ReactJS and Redux Tutorial with real-life examples](https://img.youtube.com/vi/raKV5Rb8oOM/mqdefault.jpg)](https://www.creative-tim.com/courses "ReactJS and Redux Tutorial with real-life examples")|[![Responsive Admin Template using Light Bootstrap Dashboard](https://img.youtube.com/vi/vt5hemH8I9w/mqdefault.jpg)](https://www.creative-tim.com/courses "Responsive Admin Template using Light Bootstrap Dashboard")
-|:--:|:--:|:--:|
-|How to use React with Firebase and Redux: Introduction|ReactJS and Redux Tutorial with real-life examples|Responsive Admin Template using Light Bootstrap Dashboard|
 
 
 
