@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="30%"/>
 </div>
 
 ### Hi there, I'm [Rohini Patare](www.linkedin.com/in/rohinipatare/)👋
