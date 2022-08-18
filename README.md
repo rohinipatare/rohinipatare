@@ -1,4 +1,3 @@
- 👋  
 Hi there, I'm [Rohini Patare](https://www.creative-tim.com/)👋
 
 ## About Us
