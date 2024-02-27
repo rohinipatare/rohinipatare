@@ -15,7 +15,7 @@ I am a Front-End Developer with UI/UX design skills <img src="https://media.giph
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rohini-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rohinipatare/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rohini-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/rohinipatare/](https://www.linkedin.com/in/rohinipatare/))
 
 
 ##  :hammer_and_wrench: Languages and Tools :
