@@ -46,11 +46,3 @@ I am a Front-End Developer with UI/UX design skills <img src="https://media.giph
 </p>
 
 
-## Connect with me
-
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/rohinipatare) 
-[<img alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/rohinipatare) 
-[<img alt="instagram" src="https://img.shields.io/badge/Instagram-e12f6b?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/its_also_relatable/) 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-
