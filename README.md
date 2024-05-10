@@ -22,8 +22,8 @@ I am a Front-End Developer with UI/UX design skills <img src="https://media.giph
 
 ### Development Skills
 <p>
-  <img src="html.jpg" width="67.5px" />
-  <img src="css.png" width="67.5px" />
+  <img src="solidity.png" width="67.5px" />
+  <img src="ethereum.png" width="67.5px" />
   <img src="sass.png" width="67.5px" />
   <img src="bootstrap.png" width="67.5px" />
   <img src="tailwindcss.png" width="67.5px" />
