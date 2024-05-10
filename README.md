@@ -20,7 +20,7 @@ I am a Front-End Developer with UI/UX design skills <img src="https://media.giph
 
 ##  :hammer_and_wrench: Languages and Tools :
 
-### Front-End Skills
+### Development Skills
 <p>
   <img src="html.jpg" width="67.5px" />
   <img src="css.png" width="67.5px" />
@@ -31,7 +31,7 @@ I am a Front-End Developer with UI/UX design skills <img src="https://media.giph
   <img src="react.png" width="67.5px" />
 </p>
 
-### Tools and Technologies
+
 <p>  
   <img src="git.png" width="67.5px" />
   <img src="linux.png" width="67.5px" />
