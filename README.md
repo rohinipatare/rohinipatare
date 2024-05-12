@@ -30,7 +30,7 @@ I am a Blockchain Developer with web development & UI/UX design skills <img src=
   <img src="Hardhat.png" width="67.5px" />
   <img src="web3.js.png" width="67.5px" />
   <img src="defi.png" width="67.5px" />
-  <img src="ipfs.png" width="67.5px" />
+  <img src="IPFS.png" width="67.5px" />
 
 </p>
 
