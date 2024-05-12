@@ -13,13 +13,11 @@ I am a Blockchain Developer with web development & UI/UX design skills <img src=
 
 - :seedling: Experience working with smart contracts and blockchain technology.
 
-- :zap: Familiar with different ways to deploy smart contracts, such as Remix, Truffle suite, and Hardhat
+- :globe_with_meridians: Familiar with different ways to deploy smart contracts, such as Remix, Truffle suite, and Hardhat
   
 - :zap: Exploring security of the blockchain network.
   
-- :zap: Familiar with different ways to deploy smart contracts, such as Remix, Truffle suite, and Hardhat
-
-- :zap: In my free time, I like to read Self Development & mythological books and read tech articles.
+- :dizzy: In my free time, I like to read Self Development & mythological books and read tech articles.
 
 - :mailbox:How to reach me: rohinipatare00@gmail.com  [![Linkedin Badge](https://img.shields.io/badge/-rohini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohinipatare/)
 
