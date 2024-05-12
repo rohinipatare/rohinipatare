@@ -8,10 +8,10 @@
 </div>
 
 ## :woman_technologist: About Me :
-I am a Front-End Developer with UI/UX design skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a Front-End Web Developer and contributing to frontend and backend for building web applications.
+I am a Blockchain Developer with web development & UI/UX design skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m a Blockchain Developer and contributing to web3 frontend and backend for building web applications.
 
-- :seedling: Exploring UI/UX Web & Mobile Designing.
+- :seedling: Experience working with smart contracts and blockchain technology.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
 
@@ -27,10 +27,10 @@ I am a Front-End Developer with UI/UX design skills <img src="https://media.giph
   <img src="Hyperledger Fabric.png" width="67.5px" />
   <img src="cryptography.png" width="67.5px" />
   <img src="truffle.png" width="67.5px" />
-  <img src="hardhat.png" width="67.5px" />
+  <img src="Hardhat.png" width="67.5px" />
   <img src="web3.js.png" width="67.5px" />
   <img src="defi.png" width="67.5px" />
-  <img src="ipfs.js.png" width="67.5px" />
+  <img src="ipfs.png" width="67.5px" />
 
 </p>
 
