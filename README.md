@@ -19,7 +19,7 @@ I am a Blockchain Developer with web development & UI/UX design skills <img src=
   
 - :dizzy: In my free time, I like to read Self Development, mythological books & tech articles.
 
-- :mailbox:How to reach me: rohinipatare00@gmail.com  [![Linkedin Badge](https://img.shields.io/badge/-rohini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohinipatare/)
+- :mailbox:How to reach me: rohinipatare03@gmail.com  [![Linkedin Badge](https://img.shields.io/badge/-rohini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohinipatare/)
 
 
 ##  :hammer_and_wrench: Languages and Tools :
