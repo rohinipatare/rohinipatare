@@ -13,7 +13,13 @@ I am a Blockchain Developer with web development & UI/UX design skills <img src=
 
 - :seedling: Experience working with smart contracts and blockchain technology.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
+- :zap: Familiar with different ways to deploy smart contracts, such as Remix, Truffle suite, and Hardhat
+  
+- :zap: Exploring security of the blockchain network.
+  
+- :zap: Familiar with different ways to deploy smart contracts, such as Remix, Truffle suite, and Hardhat
+
+- :zap: In my free time, I like to read Self Development & mythological books and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rohini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohinipatare/)
 
@@ -29,8 +35,8 @@ I am a Blockchain Developer with web development & UI/UX design skills <img src=
   <img src="truffle.png" width="67.5px" />
   <img src="Hardhat.png" width="67.5px" />
   <img src="web3.js.png" width="67.5px" />
-  <img src="defi.png" width="67.5px" />
   <img src="IPFS.png" width="67.5px" />
+  <img src="defi.png" width="67.5px" />
 
 </p>
 
